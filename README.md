@@ -10,7 +10,7 @@
 - 💻 B.Tech CSE student | Minor in Full Stack & DevOps  
 - 🚀 Passionate about building modern, scalable web apps  
 - 🌱 Currently diving deep into **MongoDB**, **Kubernetes**, and **CI/CD pipelines**  
-- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/your-profile) • [Email](mailto:yourmail@example.com)
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/malavikapillai123/) • [Email](mailto:malavika301@gmail.com)
 
 ---
 
